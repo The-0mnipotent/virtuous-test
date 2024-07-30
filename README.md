@@ -17,3 +17,6 @@ https://virtuous-test-1.onrender.com
 ## Database
 ![image](https://github.com/user-attachments/assets/de639b04-5cd6-454e-ae1f-8556075d63ab)
 
+# Mongoose schema validation
+![image](https://github.com/user-attachments/assets/322e2bc0-5845-40fa-81d8-c2d8226d2c0e)
+
