@@ -1,8 +1,8 @@
 # Assignment completed 
-It take input and save the above data to the database. Ensure all the validations and only when all constrains are fulfilled it inserts the data else it gives error on top.
-Also display the information after the input on the screen.
-It calculates the total marks based on user input of r1, r2, r3 and tech marks and then based on total marks it decides the result and rank as well .
-It displyes the list of all the candidate sorted with their ranking and results.
+It take input and save the above data to the database. Ensure all the validations and only when all constrains are fulfilled it inserts the data else it gives error on top.<br/>
+Also display the information after the input on the screen.<br/>
+It calculates the total marks based on user input of r1, r2, r3 and tech marks and then based on total marks it decides the result and rank as well .<br/>
+It displyes the list of all the candidate sorted with their ranking and results.<br/>
 
 # Website Link
 https://virtuous-test-1.onrender.com
