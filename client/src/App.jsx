@@ -12,16 +12,18 @@ function App() {
   const [tech_marks, setTech_marks] = useState(0);
 
   useEffect(() => {
-    Axios.get("http://localhost:3001/getUsers").then((response) => {
-      setListOfUsers(response.data);
-    });
+    Axios.get("https://virtuous-test.onrender.com/getUsers").then(
+      (response) => {
+        setListOfUsers(response.data);
+      }
+    );
   }, []);
 
   const createUser = () => {
     let total_marks = +r1_marks + +r2_marks + +r3_marks + +tech_marks;
     let result = total_marks >= 35 ? "Selected" : "Rejected";
 
-    Axios.post("http://localhost:3001/createUser", {
+    Axios.post("https://virtuous-test.onrender.com/createUser", {
       student_name,
       college_name,
       r1_marks,
